@@ -1,7 +1,7 @@
 {
   "header":{
     "/*":{
-      "X-Autho": "myokhant",
+      "X-Author": "myokhant",
       "Access-Control-Allow-Origin": "*"
     }
   }
